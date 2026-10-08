@@ -1,0 +1,8 @@
+{
+  "name": "Remix Vartu Creations — AI-Powered CRM \u0026 Order Management System",
+  "description": "Production-ready CRM, quotation generator, custom order tracker, inventory, production, dispatch, and AI sales intelligence for Vartu Creations handmade craft business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
